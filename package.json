@@ -1,0 +1,24 @@
+{
+  "name": "clut",
+  "version": "1.0.0",
+  "description": "Tiny module with simple utility functions for parsing command line arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matsrorbecker/clut.git"
+  },
+  "keywords": [
+    "cli",
+    "command-line",
+    "terminal"
+  ],
+  "author": "Mats Rörbecker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matsrorbecker/clut/issues"
+  },
+  "homepage": "https://github.com/matsrorbecker/clut#readme"
+}
